@@ -34,7 +34,7 @@
 | 1 | 2 | 3 | = |
 | 0 | - | < | h |
 
-- The digit buttons are simply `[0]`~`[9]`.
+- The `[0]` ~ `[9]` buttons are simply digits 0~9 for Decimal.
 - `[del]` button removes the last digit pressed, does nothing if the value is 0.
 - `[op]` button cycles through operations `[+]`, `[-]`, `[*]`, `[//]`, `[/]`, `[%]`, the operation applies after pressing a new digit.
 - `[-]` button switches between negative and positive.
@@ -51,6 +51,7 @@
 | 1 | 2 | 3 | = |
 | 0 | ^ | < | d |
 
+- The `[0]` ~ `[9]` buttons are simply digits 0~9 for Hexadecimal.
 - `[^]` switches to the additional keyboard, allowing access to `[A]`~`[F]` buttons.
 - `[d]` switches to Dec mode.
 
