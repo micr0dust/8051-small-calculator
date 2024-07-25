@@ -40,7 +40,7 @@
 - `[-]` button switches between negative and positive.
 - `[<]` button shifts the display number, as the 8051 has only 8 7-segment LEDs to show at most 8 digits.
 - `[=]` gets the result; pressing it multiple times loops through the history of results.
-- `[h]` switches to Hexadecimal mode.
+- `[h]` switches to Hex mode.
 
 ### Hex mode
 
@@ -52,7 +52,7 @@
 | 0 | ^ | < | d |
 
 - `[^]` switches to the additional keyboard, allowing access to `[A]`~`[F]` buttons.
-- `[d]` switches to Decimal mode.
+- `[d]` switches to Dec mode.
 
 ### Hex mode (addition keyboard)
 
@@ -63,4 +63,5 @@
 | B | C | D | = |
 | A | ^ | < | d |
 
-- The `[A]`~`[E]` buttons are simply digits for Hexadecimal.
+- The `[A]`~`[F]` buttons are simply digits 10~15 for Hexadecimal.
+- `[^]` switches back to normal keyboard.
