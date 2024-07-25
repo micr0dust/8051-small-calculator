@@ -63,5 +63,5 @@
 | B | C | D | = |
 | A | ^ | < | d |
 
-- The `[A]`~`[F]` buttons are simply digits 10~15 for Hexadecimal.
+- The `[A]` ~ `[F]` buttons are simply digits 10~15 for Hexadecimal.
 - `[^]` switches back to normal keyboard.
