@@ -6,12 +6,12 @@
 
 | Operation      | C Operator  | Display on 7-Segment LED |
 |----------------|-------------|--------------------------|
-| Addition       | +           | ─┤                       |
+| Addition       | +           | ┤                        |
 | Subtraction    | -           | ─                        |
-| Multiplication | *           | ├─┤                      |
-| Int-division   | //          | ┌─┘                      |
-| Float-division | /           | ┌─┘.                     |
-| Modulo         | %           | ┌─┐                      |
+| Multiplication | *           | ├┤                       |
+| Int-division   | //          | ┌┘                       |
+| Float-division | /           | ┌┘.                      |
+| Modulo         | %           | ┌┐                       |
 
 - Support both Dec-to-Hex and Hex-to-Dec conversion.
 - Support 32-bit integer calculations.
